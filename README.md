@@ -27,7 +27,7 @@ Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on 
 ## Istallation Guide:
 1. Clone the whole repository to your localhost folder.
 2. Launch XAMPP (or any other similar service) and start Apache, My SQL
-3. Goto phpmyadmin and create a database named **370project** and then import the file named **370project.sql**
+3. Goto phpmyadmin and create a database named **emp** and then import the file named **emp.sql**
 4. Then launch the site.
 
 ## Login Info:
